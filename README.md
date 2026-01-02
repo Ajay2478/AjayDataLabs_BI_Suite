@@ -49,10 +49,3 @@ The project includes a robust `data_engineer.py` script that handles the **Extra
 3.  **Feature Engineering:** Calculates `Days_to_Ship` and `Months_Since_Start` to power the ML models.
 
 ---
-
-## 📥 Installation & Setup
-
-1. **Clone the Repository:**
-   ```powershell
-   git clone [https://github.com/yourusernameaj/AjayDataLabs_BI_Suite.git](https://github.com/yourusername/AjayDataLabs_BI_Suite.git)
-   cd AjayDataLabs_BI_Suite
